@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "ADM0_EN": "Sahel Region",
+          "ADM0_PCODE": "SR",
+          "color": "#ffff00"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [-17.138672, 20.0],
+              [-17.138672, 10.0],
+              [40.0, 10.0],
+              [40.0, 20.0],
+              [-17.138672, 20.0]
+            ]
+          ]
+        }
+      }
+    ]
+  }
